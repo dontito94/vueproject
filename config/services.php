@@ -13,11 +13,11 @@ return [
     | to have a conventional place to find your various credentials.
     |
     */
-
-    'mailgun' => [
-        'domain' => env('MAILGUN_DOMAIN'),
-        'secret' => env('MAILGUN_SECRET'),
-    ],
+'mailgun' => [
+    'domain' => 'sandboxc5183131f7594b299a1a86b40cde26ad.mailgun.org
+',
+    'secret' => 'key-ee55ee3916df50e698bd78f7f94759b5',
+],
 
     'ses' => [
         'key' => env('SES_KEY'),
