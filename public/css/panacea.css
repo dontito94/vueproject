@@ -224,7 +224,9 @@ footer { background-color:maroon; min-height:350px; font-family: 'Open Sans', sa
 }
 
 .card-title{
-   text-align: center;
+   text-align:;
+   margin-left: 70px;
+   font-weight: bold;
 }
 
 .card:hover {
@@ -265,9 +267,28 @@ header .section1{
 }
  .btn-danger{
 
-    margin-left: 100px;
+    margin-left: 70px;
     margin-bottom: 10px;
+}
 
 
-
+   .form-control{
+    width: 25%;
+}
+.thumbnail{
+    border: 0px;
+}
+.thumbnail p{
+     margin-left: 10px;
+}
+.thumbnailbtn{
+    border: ;
+    display: 2px;
+    text-align: center;
+    cursor: pointer;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    max-width: 270px;
+ width: 100%;
 }

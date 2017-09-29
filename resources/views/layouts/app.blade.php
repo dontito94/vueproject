@@ -59,7 +59,6 @@
                               <a class="dropdown-toggle" href="/service">SERVICE <span class="caret"></span></a>
                               <ul class="dropdown-menu">
                                   <li><a href="/riskmanagement">Risk Management</a></li>
-                                  <li><a href="/securityassessment">Security Assessment</a></li>
                                   <li><a href="/penetrationtesting">Penetration testing</a></li>
                                   <li><a href="/compliencestandards">Complience to standards</a></li>
                                   <li><a href="/compliencereguratory">Complience to Reguratory</a></li>
@@ -150,14 +149,9 @@
               <div class="col-md-4 col-sm-6 footer-col">
                   <h6 class="heading7">GENERAL LINKS</h6>
                   <ul class="footer-ul">
-                  <li><a href="about.html">About us</a></li>
-                   <li><a href="contact.html">Contact us</a></li>
-                       <li><a href="#"> Privacy Policy</a></li>
-                      <li><a href="#"> Terms & Conditions</a></li>
-                      <li><a href="#"> Client Gateway</a></li>
-                      <li><a href="#"> Ranking</a></li>
-                      <li><a href="#"> Case Studies</a></li>
-                      <li><a href="#"> Frequently Ask Questions</a></li>
+                  <li><a href="/aboutus">About us</a></li>
+                   <li><a href="/contact">Contact us</a></li>
+                       
                   </ul>
               </div>
 

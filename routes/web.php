@@ -70,8 +70,8 @@ Route::get('/compliencestandards', function () {
 Route::get('/penetrationtesting', function () {
     return view('panacea.penetrationtesting');
 });
-Route::get('/securityassessment', function () {
-    return view('panacea.securityassessment');
+Route::get('/managesecurityservices', function () {
+    return view('panacea.managedsecurityservices');
 });
 Route::get('/iso', function () {
     return view('panacea.iso');
@@ -79,6 +79,13 @@ Route::get('/iso', function () {
 
 Route::get('/pci', function () {
     return view('panacea.pci');
+});
+
+Route::get('/aboutus', function () {
+    return view('panacea.aboutus');
+});
+Route::get('/contact', function () {
+    return view('panacea.contact');
 });
 
 
