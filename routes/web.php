@@ -88,6 +88,10 @@ Route::get('/contact', function () {
     return view('panacea.contact');
 });
 
+Route:: get('/kaspersky',function(){
+    return view('panacea.kaspersky');
+});
+
 
 
 

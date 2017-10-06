@@ -5,9 +5,9 @@
 <div class="container">
 
         <!-- Page Heading/Breadcrumbs -->
-        <div class="row" style="backgrund-color:white;">
+          <div class="row" style="backgrund-color:white;">
             <div class="col-lg-12">
-                <h1 class="page-header" style="font-size:40px; line-spacing:20px; color:blue; margin-left:60px;">PCI DSS</h1>
+                <h1 class="page-header" style="font-size:40px; line-spacing:20px; color:red; font-weight: bold; text-align: center;">PCI DSS</h1>
             </div>
         </div>
         <!-- /.row -->
@@ -35,14 +35,7 @@
  </div>
 
 
- <div class="row">
-    <div class="col-md-4">
-        <a href="/contact" style="text-decoration-line: none; color: white;"><button style="margin-left: 200px; margin-top: 50px; background-color: maroon; border: none; padding:10px; border-radius: 5px;">Contacts for Service</button></a>
-    </div>
-    <div class="col-md-4">
-   <a href="/contact" style="text-decoration-line: none; color: white;"><button style="margin-left: 200px; margin-top: 50px; background-color: maroon; border: none; padding:10px; border-radius: 5px;">DownLoad PDF</button></a>
-    </div>
-</div>
+
     </div>
 
 

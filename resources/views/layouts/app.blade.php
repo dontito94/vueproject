@@ -80,12 +80,14 @@
                           </li>
                           <li>
                               <form class="navbar-form">
-                      <div class="form-group" style="margin-left:50px;">
+                      <div class="form-group" style="margin-left:20px;">
                           <input type="text" class="form-control" placeholder="Search">
                       </div>
                       <button type="submit" class="btn btn-default"><i class="fa fa-search" aria-hidden="true"></i></button>
                   </form>
                           </li>
+
+                <li class="dropdown"><a href="/shoppincart">Cart</a></li>
 
                           <li>
                           <div class="collapse navbar-collapse" id="app-navbar-collapse">
@@ -98,8 +100,13 @@
                     <ul class="nav navbar-nav navbar-right">
                         <!-- Authentication Links -->
                         @if (Auth::guest())
-                            <li><a href="{{ route('login') }}">Login</a></li>
-                            <li><a href="{{ route('register') }}">Register</a></li>
+                         <li class="dropdown">
+                              <a class="dropdown-toggle">User Account<span class="caret"></span></a>
+                              <ul class="dropdown-menu">
+                             <li><a href="{{ route('login') }}">Login</a></li>
+                            <li><a href="{{ route('register') }}">Register</a></li>  
+                              </ul>
+                          </li>      
                         @else
                             <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">

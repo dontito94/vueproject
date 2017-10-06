@@ -12,8 +12,8 @@
         <!-- /.row -->
 
         <!-- Portfolio Item Row -->
-        <div class="row" style="backgrund-color:grey;" >
-        <div class="col-sm-8 col-md-8 col-md-offset-2 post-content">
+        <div class="row" style="backgrund-color:grey; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);" >
+        <div class="col-sm-8 col-md-12 post-content">
        <p style="font-size:20px; line-spacing:20px;"> Every Organisation has top officials be it Board of Directors or Executive Management. These officials develop organisation targets and strategies to meet those targets. That means, these officials are the most top decision makers of the organisation. Likewise, Information Security Strategy must align with and support organisation’s business objectives. However, most boards and/or executive management do not understand the importance of Information Security Management, therefore they consider it as a cost rather than an investment. With such kind of an understanding, we are here to hook up the minds of most top officials with the knowledge of Information security as one of the phenomenon towards successful governance.</p>
          
     </div>

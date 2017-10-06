@@ -15,7 +15,7 @@
 <div class="col-md-4">
         <img src="image/kaspersky.png" alt="Avatar" style="height:200px;width:200px; margin-left: 50px;" >
           <h4 class="card-title">kaspersky antivirus</h4>
-         <a href="/generalawareness" class="btn btn-danger">More Information</a>
+         <a href="/kaspersky" class="btn btn-danger">More Information</a>
  </div>
        <div class="col-md-4">
         <img src="image/mcafee-internet-security-suite-logo.png" alt="Avatar"  style="height:200px; width: 200px; margin-left: 30px;">

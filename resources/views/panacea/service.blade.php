@@ -11,7 +11,7 @@
         <!-- /.row -->
        <div class="row">
             <div class="col-md-12">
-                <h1 class="page-header" style="text-align:center; font-size:1.5em;" >Managed security services (MSS) is a systematic approach to managing an organization's security needs. The services may be conducted in house or outsourced to a service provider that oversees other companies' network and information system security.</h1>
+                <h1 class="page-header" style="text-align:center; font-size:1.5em; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);" >Managed security services (MSS) is a systematic approach to managing an organization's security needs. The services may be conducted in house or outsourced to a service provider that oversees other companies' network and information system security.</h1>
             </div>
           </div>
 

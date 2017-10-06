@@ -14,7 +14,7 @@
          <div class="container">
        <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header" style="text-align:center; font-size:1.5em; font-weight: bold;" >Most of the Information Security breaches begin within the organisation itself. Weather intentionally or accidentally, staff tend to operate against safety norms that eventually negative impact organisation’s information and systems assets. Awareness on Information Security and best practices is then vital. We provide this kind of training in particularly depending on the organisation scan. Such trainings are: Security in Software Development Lifecycle (SDLC); and Hacking and Securing Web Applications </h1>
+                <h1 class="page-header" style="text-align:center; font-size:1.5em; font-weight: bold; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);" >Most of the Information Security breaches begin within the organisation itself. Weather intentionally or accidentally, staff tend to operate against safety norms that eventually negative impact organisation’s information and systems assets. Awareness on Information Security and best practices is then vital. We provide this kind of training in particularly depending on the organisation scan. Such trainings are: Security in Software Development Lifecycle (SDLC); and Hacking and Securing Web Applications </h1>
             </div>
           </div>
           <div class="row" >

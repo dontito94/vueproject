@@ -12,8 +12,8 @@
         <!-- /.row -->
 
         <!-- Portfolio Item Row -->
-        <div class="row" style="backgrund-color:grey;" >
-             <div class="col-sm-8 col-md-8 col-md-offset-2 post-content">
+        <div class="row" style="backgrund-color:grey; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);" >
+             <div class="col-sm-8 col-md-12 post-content">
        <p style="font-size:20px; line-spacing:20px;"> Most of the Information Security breaches begin within the organisation itself. Whether intentionally or accidentally, staff tend to operate against safety norms that eventually negatively impact organisation’s information, ICT Infrastructure and systems assets. Awareness on Information Security Management and best practices is then vital. We provide this kind of training in particular depending on the organisation scan.</p>
         </div>
         
