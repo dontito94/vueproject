@@ -11,7 +11,9 @@
         <!-- /.row -->
         <!-- /.row -->
         <div class="container">
+                @foreach ($tools->chunk(3) as $toolChunk)
         <div class="row" style="margin-top: 50px;">
+        @foreach ($toolChunk as $tool)
 <div class="col-md-4">
         <img src="image/kaspersky.png" alt="Avatar" style="height:200px;width:200px; margin-left: 50px;" >
           <h4 class="card-title">kaspersky antivirus</h4>
@@ -23,8 +25,15 @@
          <a href="/securitygovernance" class="btn btn-danger">More Information</a>
  </div>
 
+ 
+   
+ </div>
+        @endforeach
+
+
 
   </div>
+  @endforeach
  
           
         <hr>

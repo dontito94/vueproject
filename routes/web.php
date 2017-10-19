@@ -48,9 +48,6 @@ Route::get('/service', function () {
     return view('panacea.service');
 });
 
-Route::get('/tools', function () {
-    return view('panacea.tools');
-});
 Route::get('/generalawareness', function () {
     return view('panacea.generalawareness');
 });
@@ -91,6 +88,13 @@ Route::get('/contact', function () {
 Route:: get('/kaspersky',function(){
     return view('panacea.kaspersky');
 });
+
+
+Route::get('/tools', [
+'uses' => 'ToolController@getIndex',
+'as' => 'tool.index'
+    ]);
+
 
 
 
